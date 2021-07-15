@@ -9,3 +9,5 @@ Notebook model files are found in this directory
 ## Data
 The csv data used is found in this directory
 
+## tests
+All test scripts can be found here
