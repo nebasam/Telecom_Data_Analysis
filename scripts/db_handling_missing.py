@@ -4,6 +4,8 @@ import pandas as pd
 def convert_to_datetime(df, columns):
     for col in columns:
         df[col] = pd.to_datetime(df[col])
+    return df
+
 def percent_missing(df):
 
     # Calculate total number of cells in dataframe
@@ -14,17 +16,19 @@ def percent_missing(df):
 
     # Calculate total number of missing values
     totalMissing = missingCount.sum()
+    return totalMissing
 
 def adding_columns(df,name,column1,column2):
     df[name] = df[column1] + df[column2]
     return df
-def fix_missing_ffill(df, col):
-    df[col] = df[col].fillna(method='ffill')
-    return df[col]
+def fix_missing_ffill(df):
+    df = df.ffill(axis = 0)
+    return df
 
-def fix_missing_bfill(df, col):
-    df[col] = df[col].fillna(method='bfill')
-    return df[col]
+def fix_missing_bfill(df):
+    # df[col] = df[col].fillna(method='bfill')
+    df = df.bfill(axis ='rows')
+    return df
 def fix_missing_mean(df, col):
     df[col] = df[col].fillna(df[col].mean())
     return df[col]
