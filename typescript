@@ -1,20 +1,0 @@
-Script started on 2021-07-18 14:31:31+0300
-]0;neba@neba: ~/Desktop/Telecom Data Analysis[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis[00m$ cd scripts/
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ mkdir db_ha[K[K[K_handling
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ -[Kmkdir db_handling_missing
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ rm db_handling
-rm: cannot remove 'db_handling': Is a directory
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ rm db_handlingmkdir db_handling_missing[11Prm db_handlingmkdir db_handling_missing.ph[Ky
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ rm rf[K[K-rf db_missing[K[K[K[K[K[K[Khandling_missing
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ rm -rf db_handling_missing.;py[K[K[Kp
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ rm -rf db_handling_missing.py
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ touch rm -rf db_handling_missing.pytouch [Kdb
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ -[Ktouch db_handling_missing.py
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ touch db_handling_missing.py[Krm -rf db_handling_missing.py[K[Kmkdir db_handling_missing.py[14Prm db_handling[K[K[K[K[K[K[K[K[K
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ [K]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ [K]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ [K]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ [K]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ [K]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ [K]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ [K]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ gti [K[K[Kit add . 
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ git add . \
-> ^C
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ git add . \[K[K
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ git add .
-]0;neba@neba: ~/Desktop/Telecom Data Analysis/scripts[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Analysis/scripts[00m$ cd  ..[1P..
-]0;neba@neba: ~/Desktop/Telecom Data Analysis[01;32mneba@neba[00m:[01;34m~/Desktop/Telecom Data Ana
