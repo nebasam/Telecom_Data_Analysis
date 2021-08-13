@@ -11,7 +11,8 @@ ENV PYTHONUNBUFFERED=1
 
 # Install pip requirements
 COPY requirements.txt .
-RUN python -m pip install -r requirements.txt
+RUN PYTHONPATH=/usr/bin/python pip install -r requirements.txt
+
 
 WORKDIR /app
 COPY . /app
